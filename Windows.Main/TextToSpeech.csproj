@@ -457,6 +457,7 @@
     <None Include="Resources\expences-button-png-hi.png" />
     <None Include="Resources\index.jpg" />
     <None Include="Resources\red-audio-speakers-music-background-FYMH14.jpg" />
+    <Content Include="Resources\UI.PNG" />
     <Content Include="Treetog-I-Audio-File.ico" />
   </ItemGroup>
   <ItemGroup>
