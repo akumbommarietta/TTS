@@ -12,3 +12,5 @@ Text-to-speech application aimed at providing text content accessibility to the 
 
 ### User Interface
 ![alt User Interface](https://github.com/marietta-a/TTS/blob/main/Windows.Main/Resources/UI.PNG)
+
+![alt User Interface](https://github.com/marietta-a/TTS/blob/main/Windows.Main/Resources/UI_2.PNG)
