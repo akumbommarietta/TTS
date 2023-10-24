@@ -616,6 +616,7 @@ namespace Windows.Main.Controllers
                     this.targetLanguageCode = "de";
                     break;
             }
+            playUC.VoiceLanguage.SelectedItem = playUC.DestinationLanguage.SelectedItem;
         }
 
         private void SetSourceLanguage(object sender , EventArgs e)

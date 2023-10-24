@@ -458,6 +458,7 @@
     <None Include="Resources\index.jpg" />
     <None Include="Resources\red-audio-speakers-music-background-FYMH14.jpg" />
     <Content Include="Resources\UI.PNG" />
+    <Content Include="Resources\UI_2.PNG" />
     <Content Include="Treetog-I-Audio-File.ico" />
   </ItemGroup>
   <ItemGroup>
